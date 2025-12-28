@@ -1,0 +1,14 @@
+{
+  // Disable GitLens inline/current-line blame and code lens decorations
+  "gitlens.currentLine.enabled": false,
+  "gitlens.blame.line.enabled": false,
+  "gitlens.codeLens.enabled": false,
+  "gitlens.hovers.currentLine.over": "never",
+  "gitlens.views.repositories.files.enabled": false,
+
+  // Disable built-in Git decorations in the explorer and editor
+  "git.decorations.enabled": false,
+
+  // Optional: hide GitLens file annotations if present
+  "gitlens.file.heatmap.enabled": false
+}
