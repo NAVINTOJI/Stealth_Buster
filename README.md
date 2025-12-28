@@ -2,9 +2,6 @@
 
 Highlights busting stealthy automation tools like undetected-chromedriver and stealth plugins
 
-**NOTE**: The research and evaluation of this library was done in 2021. I can
-not guarantee that it is still able to detect all listed bots, nor do I provide
-support for this library. I also do not plan on continuing the development.
 
 ## Detected bots
 
