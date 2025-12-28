@@ -1,5 +1,5 @@
 {
-  "name": "stealthbuster",
+  "name": "StealthBuster",
   "version": "1.0.0",
   "description": "Highlights busting stealthy automation tools like undetected-chromedriver and stealth plugins",
   "main": "dist/stealthbuster.min.js",
@@ -12,7 +12,7 @@
     "dist/stealthbuster.min.js",
     "dist/stealthbuster-clean.min.js"
   ],
-  "author": "Adam Dobos",
+  "author": "NavinkumaR",
   "license": "MIT",
   "devDependencies": {
     "@swc/cli": "^0.1.57",
